@@ -1,2 +1,5 @@
 # Hotel-Management-System
 The Hotel Management System is a C++-based application designed to manage hotel operations efficiently. It provides functionalities such as room booking, guest record management, billing, and inventory tracking. The system uses file handling (binary files) to store and retrieve records, ensuring data persistence.
+
+The Hotel Management System is a C++ program designed to streamline hotel operations such as room booking, customer information management, room allotment tracking, and restaurant billing. The system allows users to book rooms categorized as Deluxe, Executive, and Presidential, each with different pricing structures. It also provides functionalities for modifying guest details, checking out customers, and adding restaurant charges to the final bill.
+Potential improvements include better input validation, optimized file search mechanisms for faster access, and an admin authentication system to restrict critical modifications. With these features, the Hotel Management System provides an efficient, user-friendly, and scalable solution for managing hotel operations.
